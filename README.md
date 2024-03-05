@@ -1,1 +1,1 @@
-# easily_analyze_baseball_data
+# 野球データでやさしく学べるPython入門　から学ぶ
